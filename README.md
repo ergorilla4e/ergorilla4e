@@ -4,6 +4,7 @@
 
 Junior software engineer sharing about my learning in tech<br/>
 Studied [Applied Mathematics](http://www.scienzamedia.uniroma2.it/) a bachelor degree at the University of Roma Tor Vergata, Italy (RM)<br/>
+
 My portfolio [here](https://drive.google.com/file/d/1Y7E1DcqPswQEk27kUXynt5m9Yh0lp32l/view?usp=sharing)
 
 Currently searching for a job in tech!
